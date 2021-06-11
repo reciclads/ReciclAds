@@ -1,4 +1,7 @@
-### Hi there 👋
+# ReciclAds
+
+ReciclAds es una Empresa B, dedicada a fomentar el reciclaje en máquinas expendedoras inversas. Estas son máquinas que reciben residuos reciclables, principalmente envases de plásticos varios, vidrio no retornable, tetrabrik, etc., y emiten a cambio cupones de descuento y premios.
+
 
 <!--
 **reciclads/ReciclAds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
